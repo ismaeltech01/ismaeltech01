@@ -9,8 +9,8 @@ I sincerely thank you for taking time out of your day to read through this page 
 Feel free to contact me using the links below. 😊
 
 🧑 Connect with me
-- 🐱 [Github](https://github.com/ismaeltovar)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ismael-tovar/)
+- 🐱 [Github](https://github.com/ismaeltech01)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ismaelt123/)
 
 📞 Contact
 - ✉ Email: itovar@acm.org
