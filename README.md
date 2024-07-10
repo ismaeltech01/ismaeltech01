@@ -6,8 +6,6 @@ I am Ismael, a Computer Engineering Junior at the University of Texas at Arlingt
 
 I sincerely thank you for taking time out of your day to read through this page and learn more about me. 🙏
 
-Feel free to contact me using the links below. 😊
-
 ## List of Projects:
 - [Personal Tutoring Service (PTS)](https://github.com/ismaeltech01/personal-tutoring-service)
   - Tutoring service app for Native Android built with Kotlin using the Jetpack Compose Framework and Firebase
@@ -30,6 +28,8 @@ Feel free to contact me using the links below. 😊
 
 - [Bash Scripts](https://github.com/ismaeltech01/bash-scripts)
   - Scripts I made to make my life easier
+
+## Feel free to contact me using the links below. 😊
 
 🧑 Connect with me
 - 🐱 [Github](https://github.com/ismaeltech01)
