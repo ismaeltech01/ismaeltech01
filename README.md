@@ -2,7 +2,7 @@
 
 ## Hello there 👋
 
-I am Ismael, a Computer Engineering Junior at the University of Texas at Arlington who is always hungry for knowledge and eager to build awesome technology that helps make the world a more efficient and wonderful place.
+I am Ismael, a Computer Engineering Junior at the University of Texas at Arlington who is always hungry for knowledge and eager to build awesome technology that helps make the world a more wonderful place.
 
 I sincerely thank you for taking time out of your day to read through this page and learn more about me. 🙏
 
